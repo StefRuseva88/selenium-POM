@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\ExamPrep\\ExamPrep1\\IdeaCenterSeleniumTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0AD36B-9D5E-4A96-8168-A2DF96C1D5E0}|IdeaCenterSeleniumTests.csproj|c:\\users\\stef\\documents\\stef\\softuni\\front-end-auto\\examprep\\examprep1\\ideacenterseleniumtests\\tests\\ideacentertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0AD36B-9D5E-4A96-8168-A2DF96C1D5E0}|IdeaCenterSeleniumTests.csproj|solutionrelative:tests\\ideacentertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0AD36B-9D5E-4A96-8168-A2DF96C1D5E0}|IdeaCenterSeleniumTests.csproj|c:\\users\\stef\\documents\\stef\\softuni\\front-end-auto\\examprep\\examprep1\\ideacenterseleniumtests\\pages\\myideaspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0AD36B-9D5E-4A96-8168-A2DF96C1D5E0}|IdeaCenterSeleniumTests.csproj|solutionrelative:pages\\myideaspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0AD36B-9D5E-4A96-8168-A2DF96C1D5E0}|IdeaCenterSeleniumTests.csproj|c:\\users\\stef\\documents\\stef\\softuni\\front-end-auto\\examprep\\examprep1\\ideacenterseleniumtests\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0AD36B-9D5E-4A96-8168-A2DF96C1D5E0}|IdeaCenterSeleniumTests.csproj|solutionrelative:tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0AD36B-9D5E-4A96-8168-A2DF96C1D5E0}|IdeaCenterSeleniumTests.csproj|c:\\users\\stef\\documents\\stef\\softuni\\front-end-auto\\examprep\\examprep1\\ideacenterseleniumtests\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0AD36B-9D5E-4A96-8168-A2DF96C1D5E0}|IdeaCenterSeleniumTests.csproj|solutionrelative:pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\ExamPrep\\ExamPrep1\\IdeaCenterSeleniumTests\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\ExamPrep\\ExamPrep1\\IdeaCenterSeleniumTests\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "Pages\\LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:24:10.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyIdeasPage.cs",
+              "DocumentMoniker": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\ExamPrep\\ExamPrep1\\IdeaCenterSeleniumTests\\Pages\\MyIdeasPage.cs",
+              "RelativeDocumentMoniker": "Pages\\MyIdeasPage.cs",
+              "ToolTip": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\ExamPrep\\ExamPrep1\\IdeaCenterSeleniumTests\\Pages\\MyIdeasPage.cs",
+              "RelativeToolTip": "Pages\\MyIdeasPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:10:29.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdeaCenterTest.cs",
+              "DocumentMoniker": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\ExamPrep\\ExamPrep1\\IdeaCenterSeleniumTests\\Tests\\IdeaCenterTest.cs",
+              "RelativeDocumentMoniker": "Tests\\IdeaCenterTest.cs",
+              "ToolTip": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\ExamPrep\\ExamPrep1\\IdeaCenterSeleniumTests\\Tests\\IdeaCenterTest.cs",
+              "RelativeToolTip": "Tests\\IdeaCenterTest.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwFEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:02:47.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\ExamPrep\\ExamPrep1\\IdeaCenterSeleniumTests\\Tests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "Tests\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\ExamPrep\\ExamPrep1\\IdeaCenterSeleniumTests\\Tests\\BaseTest.cs",
+              "RelativeToolTip": "Tests\\BaseTest.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:01:59.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
