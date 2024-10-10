@@ -8,3 +8,14 @@
 
 ### Welcome to the repository for my exam projects! This collection showcases my skills in UI testing with Selenium Web Driver POM(Page Object Model) and Selenuim Ide(Integrated Development Environment). Below you will find detailed descriptions, usage instructions, and examples for each of these projects.
 ---
+
+## Table of Contents
+1. [Selenium POM](#selenium-pom)
+2. [Selenium IDE](#selenium-ide)
+3. [Getting Started](#getting-started)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Contact](#contact)
+
+---
