@@ -6,5 +6,5 @@
 [![Selenium](https://img.shields.io/badge/tested%20with-Selenium-43B02A.svg)](https://www.selenium.dev/)
 [![Selenium IDE](https://img.shields.io/badge/tested%20with-Selenium%20IDE-FF6C37.svg)](https://www.selenium.dev/selenium-ide/)
 
-## Welcome to the repository for my exam projects! This collection showcases my skills in UI testing with Selenium Web Driver POM(Page Object Model) and Selenuim Ide(Integrated Development Environment). Below you will find detailed descriptions, usage instructions, and examples for each of these projects.
+### Welcome to the repository for my exam projects! This collection showcases my skills in UI testing with Selenium Web Driver POM(Page Object Model) and Selenuim Ide(Integrated Development Environment). Below you will find detailed descriptions, usage instructions, and examples for each of these projects.
 ---
