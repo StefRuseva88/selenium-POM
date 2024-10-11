@@ -50,6 +50,7 @@ This project demonstrates my skills in using Selenium IDE, a record-and-playback
 ## Usage
 ### Running Tests:
 - Selenium WebDriver POM Tests: Use the following command to run NUnit test cases:
+  
 ``bash
 dotnet test
 ``
