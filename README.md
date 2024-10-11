@@ -51,9 +51,9 @@ This project demonstrates my skills in using Selenium IDE, a record-and-playback
 ### Running Tests:
 - Selenium WebDriver POM Tests: Use the following command to run NUnit test cases:
   
-``bash
+```bash
 dotnet test
-``
+```
 - Selenium IDE Tests: Open Selenium IDE in your browser, load the test suite, and click "Run" to execute.
 ### Test Reports:
 
