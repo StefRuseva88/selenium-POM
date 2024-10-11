@@ -47,6 +47,18 @@ This project demonstrates my skills in using Selenium IDE, a record-and-playback
 - **NUnit** test framework and **ChromeDriver** for browser testing.
 - **Selenium IDE** installed as a browser extension for quick test creation.
 
+## Usage
+### Running Tests:
+- Selenium WebDriver POM Tests: Use the following command to run NUnit test cases:
+``bash
+dotnet test
+``
+- Selenium IDE Tests: Open Selenium IDE in your browser, load the test suite, and click "Run" to execute.
+### Test Reports:
+
+- Test execution results will be available in the terminal for WebDriver tests.
+- Selenium IDE tests will display results directly in the browser.
+  
 ## Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
 
