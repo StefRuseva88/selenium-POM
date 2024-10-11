@@ -19,8 +19,6 @@ Welcome to the repository for my exam projects! This collection showcases my ski
 - [License](#license)
 - [Contact](#contact)
 
----
-
 ## Selenium POM
 This project involves creating automated UI tests using the Selenium WebDriver and implementing the Page Object Model (POM) pattern. The POM design pattern helps in making tests more maintainable and reusable by separating the web elements and their actions into specific page classes. This project includes:
 - Setting up Selenium WebDriver for Chrome.
