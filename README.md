@@ -6,7 +6,7 @@
 [![Selenium](https://img.shields.io/badge/tested%20with-Selenium-43B02A.svg)](https://www.selenium.dev/)
 [![Selenium IDE](https://img.shields.io/badge/tested%20with-Selenium%20IDE-FF6C37.svg)](https://www.selenium.dev/selenium-ide/)
 
-###  Welcome to the repository for my exam projects! This collection showcases my skills in UI testing using Selenium WebDriver with the Page Object Model (POM) design pattern and Selenium IDE. Below you will find detailed descriptions, usage instructions, and examples for each of these projects. The projects demonstrate my proficiency in writing clean, maintainable, and efficient test automation scripts for web applications.
+Welcome to the repository for my exam projects! This collection showcases my skills in UI testing using Selenium WebDriver with the Page Object Model (POM) design pattern and Selenium IDE. Below you will find detailed descriptions, usage instructions, and examples for each of these projects. The projects demonstrate my proficiency in writing clean, maintainable, and efficient test automation scripts for web applications.
 
 ---
 
