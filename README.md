@@ -46,3 +46,15 @@ This project demonstrates my skills in using Selenium IDE, a record-and-playback
 - **C#** and **.NET Core** installed on your local machine.
 - **NUnit** test framework and **ChromeDriver** for browser testing.
 - **Selenium IDE** installed as a browser extension for quick test creation.
+
+## Contributing
+Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
+
+## License
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any questions or suggestions, please open an issue in the repository.
+
+---
+### Happy Testing! 🚀
