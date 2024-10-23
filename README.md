@@ -24,7 +24,6 @@ This project involves creating automated UI tests using the Selenium WebDriver a
 - Setting up Selenium WebDriver for Chrome.
 - Writing automated tests using NUnit for testing various functionalities of the web application.
 - Implementing POM to manage web elements and interactions on different pages.
-- Using the `ChromeDriver` for cross-browser testing and compatibility.
 
 ### Key Features:
 - Test cases covering login, registration, form submissions, and data validation.
